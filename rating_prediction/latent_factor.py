@@ -3,7 +3,6 @@
 """
 Created on Sun Feb 19 16:46:34 2017
 
-@author: michaelxu
 """
 import numpy
 import gzip
